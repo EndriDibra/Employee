@@ -71,7 +71,7 @@ public class Employee extends Employee_Methods_1 implements Employee_Methods_2 {
 
         int tax = 0;
         
-        // tax system in greece
+        // tax system in Greece
         if ( a.equals("Greece") ) {
 
             if (s >= 0 && s <= 20000) {
